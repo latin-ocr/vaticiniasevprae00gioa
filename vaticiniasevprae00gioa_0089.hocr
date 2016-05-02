@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vaticiniasevprae00gioa_0089.png"; bbox 0 0 1950 2856; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 973 181">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 973 181">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 973 181; baseline -0.039 -45"><span class='ocrx_word' id='word_1_1' title='bbox 0 79 122 121; x_wconf 38' lang='grc' dir='ltr'><em>κ.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 297 51 351 123; x_wconf 66' lang='grc' dir='ltr'><em>ετ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 422 0 973 181; x_wconf 37' lang='lat' dir='ltr'><em>offlam?</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
